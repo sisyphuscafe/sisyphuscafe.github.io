@@ -1,4 +1,4 @@
 # sisyphuscafe.github.io
 
-Ready.
+Verified.
 
