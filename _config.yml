@@ -54,8 +54,8 @@ defaults:
 
 # Build settings
 #theme: minima
-theme: minimal-mistakes-jekyll
-#remote-theme: "mmistakes/minimal-mistakes@4.24.0"
+#theme: minimal-mistakes-jekyll
+remote-theme: "mmistakes/minimal-mistakes@4.24.0"
 
 plugins:
   - jekyll-feed
