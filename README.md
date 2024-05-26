@@ -1,4 +1,0 @@
-# sisyphuscafe.github.io
-
-Verified.
-
