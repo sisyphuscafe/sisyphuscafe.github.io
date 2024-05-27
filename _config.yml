@@ -22,7 +22,7 @@ title: SisyphusCafe
 email: sisyphuscafe@gmail.com
 
 description: >- # this means to ignore newlines until next element
-  The personal website and blog of Paul Hastings. 
+  The personal website of Paul Hastings. 
 
 #url: "https://sisyphuscafe.com" # the base hostname & protocol for your site, e.g. http://example.com
 url: "https://sisyphuscafe.github.io" # the base hostname & protocol for your site, e.g. http://example.com
