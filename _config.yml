@@ -24,8 +24,8 @@ email: sisyphuscafe@gmail.com
 description: >- # this means to ignore newlines until next element
   The personal website of Paul Hastings. 
 
-#url: "https://sisyphuscafe.com" # the base hostname & protocol for your site, e.g. http://example.com
-url: "https://sisyphuscafe.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://sisyphuscafe.com" # the base hostname & protocol for your site, e.g. http://example.com
+#url: "https://sisyphuscafe.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 baseurl: "" # the subpath of your site, e.g. /blog
 
 github_username:  sisyphuscafe
@@ -37,7 +37,7 @@ author:
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      url: "https://sisyphuscafe.github.io"
+      url: "https://sisyphuscafe.com"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/sisyphuscafe"
