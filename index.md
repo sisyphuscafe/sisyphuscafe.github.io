@@ -10,5 +10,5 @@ header:
     caption: "Photo by [Artur Tumasjan](https://unsplash.com/@arturtumasjan?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash) on [Unsplash](https://unsplash.com/photos/silver-motorcycle-instrument-panel-cluster-IHUcMhkmrVI?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash)"
 
 excerpt: >-
-    A personal blog and website produced to share interesting, compelling and satisfying content. There is no Cafe.
+    Stories about stuff. There is no Cafe.
 ---

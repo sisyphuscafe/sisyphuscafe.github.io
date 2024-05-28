@@ -9,7 +9,7 @@ header:
     caption: "Photo by [Clem Onojeghuo](https://unsplash.com/@clemono?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash) on [Unsplash](https://unsplash.com/photos/person-sitting-inside-restaurant-zlABb6Gke24?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash)"
 
 excerpt: >-
-    A personal blog and website produced to share interesting, compelling and satisfying things. There is no Cafe.
+    Stories about stuff. There is no Cafe.
 
 toc: true
 toc_label: Index
@@ -18,9 +18,9 @@ toc_sticky: true
 ---
 
 # Cafe
-This is a personal blog and website produced to share interesting, compelling and satisfying content. It is not a cafe. 
+This is a personal website produced to share interesting, compelling and satisfying stories. It is not a cafe. 
 
-However, there is a fully functional kitchen and dining area, entertainment spaces, alcoves devoted to quiet reflection and of course, a reasonably well-stocked garage and shop for executing wood and metalworking projects, motorcycle building and, on occasion, sheltering 4-wheeled vehicles.
+That said, there **is** a fully functional kitchen and dining area, entertainment spaces, alcoves devoted to quiet reflection and of course, a reasonably well-stocked garage and shop for executing wood and metalworking projects, motorcycle building and, on occasion, sheltering 4-wheeled vehicles.
 
 ## The Tech Stack
 This site takes a simpler approach, moving away from heavyweight server-side solutions ([WordPress](https://wordpress.org/)). Instead, the site is hosted using [GitHub Pages](https://pages.github.com/), based on a static site generation tool called [Jekyll](https://jekyllrb.com/) written in [Ruby](https://www.ruby-lang.org/en/). The chosen theme is called [Minimal Mistakes](https://mmistakes.github.io/minimal-mistakes/) developed by [Michael Rose](https://github.com/mmistakes).

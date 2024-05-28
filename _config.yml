@@ -25,7 +25,6 @@ description: >- # this means to ignore newlines until next element
   The personal website of Paul Hastings. 
 
 url: "https://sisyphuscafe.com" # the base hostname & protocol for your site, e.g. http://example.com
-#url: "https://sisyphuscafe.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 baseurl: "" # the subpath of your site, e.g. /blog
 
 github_username:  sisyphuscafe
@@ -53,9 +52,7 @@ defaults:
       share: false
 
 # Build settings
-#theme: minima
 #theme: minimal-mistakes-jekyll
-#remote_theme: "mmistakes/minimal-mistakes@4.24.0"
 remote_theme: "mmistakes/minimal-mistakes"
 
 plugins:
